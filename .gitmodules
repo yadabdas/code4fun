@@ -1,0 +1,6 @@
+[submodule "lib/commons-math"]
+	path = lib/commons-math
+	url = https://github.com/apache/commons-math.git
+[submodule "lib/junit"]
+	path = lib/junit
+	url = https://github.com/junit-team/junit.git
